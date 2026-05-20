@@ -4,8 +4,8 @@
 📱 An Android Library for 💫fluid, 😍beautiful, 🎨custom Dialogs.
 
 ## Tech Stack & Keywords
-- **Language:** Multiple
-- **Keywords:** aesthetic | android | beautiful | dialogs | fluid | library
+- **Language:** Kotlin
+- **Keywords:** activity | aesthetic | android | app | beautiful | compose | coroutines | dialogs | face | firebase | fluid | fragment | geolocation | gradle | jetpack | kotlin | library | livedata | mobile | mvvm
 
 ## Features
 - Modern architecture
@@ -24,4 +24,4 @@ cd AestheticDialogs
 🔗 [GitHub](https://github.com/mhcybroot) | [LinkedIn](https://linkedin.com/in/engineermahmudulhasan)
 
 ---
-🔍 SEO: aesthetic, android, beautiful, dialogs, fluid, library | Updated: 2026-05-16 10:21
+🔍 SEO: activity, aesthetic, android, app, beautiful, compose, coroutines, dialogs, face, firebase, fluid, fragment | Updated: 2026-05-20 12:45
